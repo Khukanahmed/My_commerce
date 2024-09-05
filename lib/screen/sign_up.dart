@@ -75,7 +75,7 @@ class _SignUpState extends State<SignUp> {
                     child: Column(
                       children: [
                         Text(
-                          ' Welcome Signup',
+                          ' Welcome SignUp',
                           style: TextStyle(
                               fontSize: 25, fontWeight: FontWeight.w600),
                         ),

@@ -39,7 +39,7 @@ class _HomeScreenState extends State<HomeScreen> {
         actions: [
           TextButton(
               onPressed: () {
-                Get.to(LoginScreen());
+                Get.off(LoginScreen());
               },
               child: Text('Login'))
         ],
